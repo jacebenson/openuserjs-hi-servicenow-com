@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Get HI Updated by not me
 // @namespace    https://blog.jacebenson.com/post/2018-09-05-keeping-hi-on-their-toes/
-// @version      0.3
+// @version      0.3.1
 // @description  Servicenow - Show incidents updated by not you as messages
 // @author       Jace
 // @match        https://hi.service-now.com/*
